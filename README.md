@@ -1,9 +1,12 @@
 # Controles_Moviles_Unity
-Controles para dispositivos móviles
+Controles para juegos en dispositivos móviles hechos con Unity
 
 *********************************************************************************
 
-Para el control con botones UI es necesario crear 4 event trigger:
+Para el control con botones UI es necesario crear un canvas y crear dentro de el 
+un elemento tipo buttom UI en donde se crearan 4 event trigger, para añadir los eventos
+seleccionamos el boton > en inspector add component y seleccionar event > event trigger
+y agregar:
 
 -Pointer Down
 -Pointer Up
